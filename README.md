@@ -1,6 +1,11 @@
 # DecoratorPattern
 
-To save yourself from subclass overflow.
-Uses class composition.
+It saves you from subclass overflow.
 
-Decorator patterns use abstract classes which makes it less prone to error
+It uses class composition.
+
+Decorator patterns use abstract classes which makes it less prone to error.
+
+But decorator can make your code complicated to understand.
+
+However, decorators are typically created by using other patterns like Factory and Builder.
